@@ -1,5 +1,5 @@
 ### Hi! I'm Matt.  
-I'm a developer from Australia who loves all aspects of software engineering - from the low level of transistors and assembly, to the high-level of front-end development; as well as everything in between. My favourite areas however are graphics programming, game developement, and programming language theory. You can read more about me on [my website](http://www.matty-o.xyz/).  
+I'm a developer from Australia who loves all aspects of software engineering - from the low level of transistors and assembly, to the high-level of front-end development; as well as everything in between. My favourite areas however are game development and programming language theory. You can read more about me on [my website](http://www.matty-o.xyz/).  
 
 I like working with all languages and technologies, but my favourite languages would be C++, Rust, and C#. My favourite technologies to work with are game/graphics libraries - such as Vulkan, OpenGL, and SDL2.  
 
