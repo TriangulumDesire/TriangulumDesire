@@ -1,4 +1,4 @@
-### Matthew Schäfer
+### Matthew Schäfer.
 
 * I'm a developer from Australia who loves making 2D games, game engines, and programming languages.
 * My favourite languages include `C++`, `Rust`, and `C#` (but all languages are awesome in their own ways).
