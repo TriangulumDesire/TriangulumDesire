@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://giphy.com/gifs/trippy-abstract-pi-slices-l2SpKdrBxH8jp9mhy">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI4bTd4NnltZ3ExaW4yb29vNDg3c2U4MjUxcjRmM2NjOHNkdjM5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpKdrBxH8jp9mhy/giphy.gif" alt="Spinning audiocassette." />
-  </a> 
+<p align="center"> 
+  <a href="https://www.deviantart.com/valenberg/art/Rolly-Rocket-601618597">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5a3db7-fb07-4532-aa4c-93f5a5d5d651/d9y6rvp-08b4238f-9618-4491-b5eb-0c44316bd858.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNWEzZGI3LWZiMDctNDUzMi1hYTRjLTkzZjVhNWQ1ZDY1MVwvZDl5NnJ2cC0wOGI0MjM4Zi05NjE4LTQ0OTEtYjVlYi0wYzQ0MzE2YmQ4NTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eo7MtTF_JpW5otzSgjgOo-yNtPfUh_spqVrGR14R9Uc" alt="Rainy Cyberpunk city pixel-art." />
+  </a>
 </p>
 <h2 align="center">📼 𝔸𝕟 𝕠𝕥𝕙𝕖𝕣𝕨𝕠𝕣𝕝𝕕𝕝𝕪 𝕗𝕖𝕖𝕝𝕚𝕟𝕘 𝕙𝕒𝕤 𝕓𝕖𝕗𝕒𝕝𝕝𝕖𝕟 𝕪𝕠𝕦. 📼</h2>
